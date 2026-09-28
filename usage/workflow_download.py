@@ -10,6 +10,7 @@ from jmcomic.cli import JmcomicUI
 jm_albums = '''
 JM1476694
 JM1471577
+JM1467579
 
 '''
 
